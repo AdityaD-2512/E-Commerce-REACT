@@ -1,6 +1,6 @@
 import {Link} from 'react-router-dom';
 import './CartPage.css';
-import Header from './header';
+import Header from './Header';
 import NavBar from './NavBar';
 import Footer from './Footer';
 
