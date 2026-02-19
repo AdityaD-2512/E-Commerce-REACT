@@ -1,0 +1,19 @@
+.nav{
+    text-align: center;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 700;
+}
+
+h4{
+    font-weight: 400;
+}
+
+@media(max-width:800px){
+    h4{
+        font-size: smaller;
+    }
+}

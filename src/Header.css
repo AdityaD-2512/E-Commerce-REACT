@@ -1,0 +1,51 @@
+.homeIcon{
+    padding-left: 2vw;
+}
+
+.header{
+    display: flex;
+}
+
+.header-left{
+    display: flex;
+}
+
+.header-right{
+    display: flex;
+    margin-left: 60vw;
+}
+
+.headerName{
+    margin-top: 3px;
+    margin-left: 5px;
+}
+
+.cart{
+    margin-left: 3vw;
+}
+
+@media(max-width : 900px){
+    .header-right{
+        margin-left: 20vw;
+    }
+}
+
+.header-left:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.cart1:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.wish:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.toggle:hover{
+    opacity: 0.7;
+    cursor: pointer;
+}
