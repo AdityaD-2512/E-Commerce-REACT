@@ -1,5 +1,5 @@
 import NavBar from './NavBar';
-import Header from './header';
+import Header from './Header';
 import Sales  from './Sales';
 import ThisMonth from './ThisMonth';
 // import LikeButton from './LikeButton';
